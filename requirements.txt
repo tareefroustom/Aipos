@@ -1,0 +1,3 @@
+py -m pip install ktrain
+py -m pip install goose3
+py -m pip install nltk
