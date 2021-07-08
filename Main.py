@@ -42,7 +42,7 @@ if __name__ == '__main__':
     import ktrain
 
     # load the model
-    NerPredictor = ktrain.load_predictor("C:/Users/troustom/Google Drive/Aipos/Aipos_Main/Named_Entity_Recognition_Model/July-07-2021-ca_8500_Sentences_News_Info_Extraction_1")#July-06-2021-ca_8500_Sentences_News_Info_Extraction_5
+    NerPredictor = ktrain.load_predictor("./July-07-2021-ca_8500_Sentences_News_Info_Extraction_1")#July-06-2021-ca_8500_Sentences_News_Info_Extraction_5
 
     st.markdown( """<head><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Titillium Web"><style> body { font-family: "Titillium Web", sans-serif;} </style></head>""",
                 unsafe_allow_html=True)
