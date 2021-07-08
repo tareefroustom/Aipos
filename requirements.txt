@@ -1,3 +1,6 @@
 ktrain
 goose3
 nltk
+tensorflow
+transformers
+torch torchvision torchaudio
