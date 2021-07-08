@@ -1,7 +1,7 @@
 import streamlit as st
 
 #The Named Entity Recognition highligting library
-from spacy import displacy
+#from spacy import displacy
 
 
 st.set_page_config(page_title="Aipos", page_icon="💻")#, layout="wide")
